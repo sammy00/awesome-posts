@@ -1,4 +1,4 @@
-# Awesome Articles  
+# Awesome Posts  
 
 ## golang  
 + [ ] [Applying The Clean Architecture to Go applications](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
