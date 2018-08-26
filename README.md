@@ -7,3 +7,7 @@
 
 ## blockchain  
 + [x] [An Overview of Privacy in Cryptocurrencies](https://thecontrol.co/an-overview-of-privacy-in-cryptocurrencies-893dc078d0d7)  
+
+## web  
++ [ ] [Quickly develop static websites with VueJS, a headless CMS and GraphQL](https://medium.com/@marcmintel/quickly-develop-static-websites-with-vuejs-a-headless-cms-and-graphql-bf64e75910d6)
++ [ ] [An OAuth 2.0 introduction for beginners](https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9)
