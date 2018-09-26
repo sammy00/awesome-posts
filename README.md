@@ -13,6 +13,9 @@
 + [x] [Demystifying Binary Search Tree Algorithms](https://about.sourcegraph.com/go/gophercon-2018-binary-search-tree-algorithms/)  
 + [x] [How Do You Structure Your Go Apps?](https://about.sourcegraph.com/go/gophercon-2018-how-do-you-structure-your-go-apps/)  
 
+## interview    
++ [ ] [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+
 ## software engineering  
 + [x] [Decoupling your technical code from your business logic with the Hexagonal Architecture (HexArch)](https://medium.com/@julien.topcu/decoupling-your-technical-code-from-your-business-logic-with-the-hexagonal-architecture-hexarch-b4da7ba62079)  
 + [ ] [Ports and Adapters Pattern (also known as Hexagonal Architecture)](https://softwarecampament.wordpress.com/portsadapters/)
