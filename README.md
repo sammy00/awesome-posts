@@ -11,7 +11,7 @@
 - [ ] [Golang channel deep dive, async task sharing, encrypted keys & more](https://medium.com/jexia/golang-channel-deep-dive-async-task-sharing-encrypted-keys-more-3b54eae02fe)
 - [ ] [Loose Coupling in Go lang](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
 - [x] [THE X-FILES: AVOIDING CONCURRENCY BOILERPLATE WITH GOLANG.ORG/X/SYNC](https://rodaine.com/2018/08/x-files-sync-golang)
-- [ ] [The Go scheduler](https://morsmachine.dk/go-scheduler)
+- [x] [The Go scheduler](https://morsmachine.dk/go-scheduler)
 - [x] [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
 
 ### GopherCon-2018
