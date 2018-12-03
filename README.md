@@ -7,6 +7,7 @@
 ## golang
 
 - [ ] [Applying The Clean Architecture to Go applications](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
+- [x] [Diving Deep Into The Golang Channels.](https://codeburst.io/diving-deep-into-the-golang-channels-549fd4ed21a8)
 - [x] [Errors in Go: From denial to acceptance](https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance)
 - [ ] [Golang channel deep dive, async task sharing, encrypted keys & more](https://medium.com/jexia/golang-channel-deep-dive-async-task-sharing-encrypted-keys-more-3b54eae02fe)
 - [ ] [Loose Coupling in Go lang](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
