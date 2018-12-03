@@ -8,6 +8,7 @@
 
 - [ ] [Applying The Clean Architecture to Go applications](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
 - [x] [Errors in Go: From denial to acceptance](https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance)
+- [ ] [Golang channel deep dive, async task sharing, encrypted keys & more](https://medium.com/jexia/golang-channel-deep-dive-async-task-sharing-encrypted-keys-more-3b54eae02fe)
 - [ ] [Loose Coupling in Go lang](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
 - [x] [THE X-FILES: AVOIDING CONCURRENCY BOILERPLATE WITH GOLANG.ORG/X/SYNC](https://rodaine.com/2018/08/x-files-sync-golang)
 - [ ] [The Go scheduler](https://morsmachine.dk/go-scheduler)
