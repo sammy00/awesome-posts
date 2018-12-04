@@ -12,6 +12,7 @@
 - [x] [Go Hex Arch](http://www.joeldholmes.com/post/go-hex-arch/?utm_campaign=Golang%20Ninjas%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter)
 - [ ] [Golang channel deep dive, async task sharing, encrypted keys & more](https://medium.com/jexia/golang-channel-deep-dive-async-task-sharing-encrypted-keys-more-3b54eae02fe)
 - [ ] [Loose Coupling in Go lang](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
+- [x] [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 - [x] [THE X-FILES: AVOIDING CONCURRENCY BOILERPLATE WITH GOLANG.ORG/X/SYNC](https://rodaine.com/2018/08/x-files-sync-golang)
 - [x] [The Go scheduler](https://morsmachine.dk/go-scheduler)
 - [x] [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
