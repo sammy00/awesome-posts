@@ -9,6 +9,7 @@
 - [ ] [Applying The Clean Architecture to Go applications](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
 - [x] [Diving Deep Into The Golang Channels.](https://codeburst.io/diving-deep-into-the-golang-channels-549fd4ed21a8)
 - [x] [Errors in Go: From denial to acceptance](https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance)
+- [x] [Go Hex Arch](http://www.joeldholmes.com/post/go-hex-arch/?utm_campaign=Golang%20Ninjas%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter)
 - [ ] [Golang channel deep dive, async task sharing, encrypted keys & more](https://medium.com/jexia/golang-channel-deep-dive-async-task-sharing-encrypted-keys-more-3b54eae02fe)
 - [ ] [Loose Coupling in Go lang](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
 - [x] [THE X-FILES: AVOIDING CONCURRENCY BOILERPLATE WITH GOLANG.ORG/X/SYNC](https://rodaine.com/2018/08/x-files-sync-golang)
